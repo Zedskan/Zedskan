@@ -1,4 +1,4 @@
-# 💻 Hey, I'm Daniel Miranda! 👾
+# 💻 Hey! 👾
 
 ![Music Soundcloud Banner](https://github.com/user-attachments/assets/83728517-1390-4ca1-97ba-788d5cd11128)
 
