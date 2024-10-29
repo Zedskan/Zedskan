@@ -40,4 +40,3 @@
 
 # 🛠️ Contact
 - **Email**: [zedskan@gmail.com](mailto:zedskan@gmail.com)
-- **Twitter**: [Your Twitter](#)
