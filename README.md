@@ -2,20 +2,19 @@
 
 ![Music Soundcloud Banner](https://github.com/user-attachments/assets/83728517-1390-4ca1-97ba-788d5cd11128)
 
+## Specialties: ![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-34eb8f?style=for-the-badge) | ![Web Development](https://img.shields.io/badge/-Web_Development-34cceb?style=for-the-badge) | ![Programming](https://img.shields.io/badge/-Programming-eb34d2?style=for-the-badge)
 
-## Especialidades: ![Seguridad Informática](https://img.shields.io/badge/-Seguridad-34eb8f?style=for-the-badge) | ![Desarrollo Web](https://img.shields.io/badge/-Desarrollo_Web-34cceb?style=for-the-badge) | ![Programación](https://img.shields.io/badge/-Programación-eb34d2?style=for-the-badge)
-
-### 👾 Aficiones:
+### 👾 Hobbies:
 - **CTF** (Capture The Flag)
-- **Hacking Web**
+- **Web Hacking**
 - **First Person Shooters**
 
-# 🧑‍💻 Sobre mí
-- 🎓 Especialista en: **Explotación Web, Ciberseguridad, Programación en Python**
-- 🕹️ Proyectos Recientes: Mi web, CBBH Certification
-- 📫 Contáctame en:
+# 🧑‍💻 About Me
+- 🎓 Specialist in: **Web Exploitation, Cybersecurity, Python Programming**
+- 🕹️ Recent Projects: My website, CBBH Certification
+- 📫 Contact me at:
 
-# 🔧 Lenguajes y Herramientas Favoritas
+# 🔧 Favorite Languages and Tools
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-000?logo=python&logoColor=34eb98&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-JavaScript-000?logo=javascript&logoColor=34cceb&style=for-the-badge" />
@@ -28,23 +27,21 @@
   <img src="https://img.shields.io/badge/-Dirb-000?logo=gnu-bash&logoColor=34cceb&style=for-the-badge" />
 </p>
 
-# 🚀 Mis Proyectos Destacados
-| Proyecto                          | Descripción                                                         | Enlace   |
+# 🚀 My Featured Projects
+| Project                          | Description                                                         | Link     |
 |-----------------------------------|---------------------------------------------------------------------|----------|
-| **Mi Web**                        | 📜 Un espacio donde comparto mis writeups, apuntes y artículos sobre ciberseguridad y hacking ético | [GitHub](#) |
-| **Raging Bug**                    | 🎮 Mi primer FPS desarrollado en Unity, centrado en la acción y el diseño creativo de niveles | [GitHub](#) |
+| **My Website**                    | 📜 A space where I share my write-ups, notes, and articles on cybersecurity and ethical hacking | [GitHub](#) |
+| **Raging Bug**                    | 🎮 My first FPS developed in Unity, focused on action and creative level design | [GitHub](#) |
 
-
-
-# 📊 Estadísticas de GitHub
+# 📊 GitHub Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=highcontrast&title_color=34eb8f&text_color=c9d1d9&icon_color=34cceb&bg_color=000000" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=highcontrast&title_color=34eb8f&text_color=c9d1d9&bg_color=000000" />
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=highcontrast&title_color=34eb8f&text_color=c9d1d9&icon_color=34cceb&bg_color=000000" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=highcontrast&title_color=34eb8f&text_color=c9d1d9&bg_color=000000" />
 </p>
 
-# 🎯 Mi Inspiración
+# 🎯 My Inspiration
 > "Alea iacta est" - The die is cast.
 
-# 🛠️ Contacto
+# 🛠️ Contact
 - **Email**: [zedskan@gmail.com](mailto:zedskan@gmail.com)
-- **Twitter**: [Tu Twitter](#)
+- **Twitter**: [Your Twitter](#)
