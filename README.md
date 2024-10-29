@@ -1,7 +1,5 @@
 # 💻 Hey, I'm Daniel Miranda! 👾
 
-![giphy-downsized-large](https://github.com/user-attachments/assets/95041a6b-ddd9-43f1-9de3-0ad18bef3e9c)
-
 ## Especialidades: ![Seguridad Informática](https://img.shields.io/badge/-Seguridad-34eb8f?style=for-the-badge) | ![Desarrollo Web](https://img.shields.io/badge/-Desarrollo_Web-34cceb?style=for-the-badge) | ![Programación](https://img.shields.io/badge/-Programación-eb34d2?style=for-the-badge)
 
 ### 👾 Aficiones:
@@ -54,7 +52,7 @@
 </p>
 
 # 🎯 Mi Inspiración
-> "Nulla tenaci invia est via" - Para quien es tenaz, ningún camino es intransitable.
+> "Alea iacta est" - The die is cast.
 
 # 🛠️ Contacto
 - **Email**: [tu-email@example.com](mailto:tu-email@example.com)
