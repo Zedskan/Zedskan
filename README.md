@@ -11,7 +11,7 @@
 
 # 🧑‍💻 Sobre mí
 - 🎓 Especialista en: **Explotación Web, Ciberseguridad, Programación en Python**
-- 🕹️ Proyectos Recientes: Mi web, CBBH
+- 🕹️ Proyectos Recientes: Mi web, CBBH Certification
 - 📫 Contáctame en:
 
 # 🔧 Lenguajes y Herramientas
@@ -21,6 +21,31 @@
   <img src="https://img.shields.io/badge/-Linux-000?logo=linux&logoColor=ff34cb&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Unity-000?logo=unity&logoColor=ffffff&style=for-the-badge" />
 </p>
+
+## 🔍 Herramientas de Hacking Web
+<p align="center">
+  <img src="https://img.shields.io/badge/-Burp_Suite-000?logo=burp-suite&logoColor=orange&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-OWASP_ZAP-000?logo=owasp&logoColor=34cceb&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-SQLmap-000?logo=sqlite&logoColor=34eb98&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Nmap-000?logo=nmap&logoColor=ff34cb&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-ReconNG-000?logo=python&logoColor=blue&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Sublist3r-000?logo=python&logoColor=34eb98&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Dirb-000?logo=gnu-bash&logoColor=34cceb&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Amass-000?logo=cybersecurity&logoColor=purple&style=for-the-badge" />
+</p>
+
+# 💥 Bug Bounty Hunter Skills 
+- **Reconocimiento Avanzado**: Búsqueda de subdominios, detección de puertos y vulnerabilidades con herramientas como Nmap y Sublist3r.
+- **Testing de Seguridad**: Explotación de vulnerabilidades web usando Burp Suite y OWASP ZAP.
+- **Automatización**: Scripts en Python para automatizar tareas de reconocimiento y prueba de seguridad.
+- **Análisis de Vulnerabilidades**: Identificación de inyecciones SQL, XSS y problemas de configuración con SQLmap y Dirb.
+- **Informes**: Creación de reportes detallados para programas de Bug Bounty.
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=highcontrast&title_color=34eb98&text_color=c9d1d9&icon_color=ff34cb&bg_color=000000" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=highcontrast&title_color=34eb98&text_color=c9d1d9&bg_color=000000" />
+</p>
+
 
 # 🚀 Mis Proyectos Destacados
 | Proyecto                          | Descripción                                                         | Enlace   |
