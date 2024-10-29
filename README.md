@@ -33,11 +33,6 @@
 | **My Website**                    | 📜 A space where I share my write-ups, notes, and articles on cybersecurity and ethical hacking | [GitHub](#) |
 | **Raging Bug**                    | 🎮 My first FPS developed in Unity, focused on action and creative level design | [GitHub](#) |
 
-# 📊 GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zedskan&show_icons=true&theme=radical&title_color=34eb8f&text_color=c9d1d9&icon_color=ff6347&bg_color=1e1e1e" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zedskan&layout=compact&theme=radical&title_color=34eb8f&text_color=c9d1d9&bg_color=1e1e1e" />
-</p>
 
 
 # 🎯 My Inspiration
