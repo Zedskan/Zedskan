@@ -35,8 +35,8 @@
 
 # 📊 GitHub Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=highcontrast&title_color=34eb8f&text_color=c9d1d9&icon_color=34cceb&bg_color=000000" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=highcontrast&title_color=34eb8f&text_color=c9d1d9&bg_color=000000" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Zedskan&show_icons=true&theme=highcontrast&title_color=34eb8f&text_color=c9d1d9&icon_color=34cceb&bg_color=000000" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zedskan&layout=compact&theme=highcontrast&title_color=34eb8f&text_color=c9d1d9&bg_color=000000" />
 </p>
 
 # 🎯 My Inspiration
