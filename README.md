@@ -3,13 +3,12 @@
 ![Banner](https://example.com/tu-banner.png) <!-- Un banner tipo 'hacker' -->
 
 
-# Código al estilo YAML para dar un efecto cibernético
-Nombre: Tu Nombre
-Especialidad: Seguridad Cibernética | Desarrollo Web | Programación
+Daniel Miranda
+Especialidad: Seguridad Informática | Desarrollo Web | Programación
 Aficiones:
   - CTF (Capture The Flag)
-  - Programación competitiva
-  - Videojuegos estilo rogue-like y FPS
+  - Hacking Ético
+  - FPS
 🧑‍💻 Sobre mí
 🎓 Especialista en: Explotación Web, Ciberseguridad, Programación en Python
 🕹️ Proyectos Recientes: Desarrollo de roguelike en Unity3D, scripts de automatización, bots de seguridad.
