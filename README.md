@@ -1,6 +1,6 @@
 # 💻 Hey, I'm Daniel Miranda! 👾
 
-![Banner](https://example.com/tu-banner.png) <!-- Añade un banner animado de estilo 'hacker' -->
+![Banner](https://media.giphy.com/media/kJ1iL1ZQIyibu/giphy.gif)
 
 ## Especialidades: ![Seguridad Informática](https://img.shields.io/badge/-Seguridad-34eb8f?style=for-the-badge) | ![Desarrollo Web](https://img.shields.io/badge/-Desarrollo_Web-34cceb?style=for-the-badge) | ![Programación](https://img.shields.io/badge/-Programación-eb34d2?style=for-the-badge)
 
@@ -14,25 +14,19 @@
 - 🕹️ Proyectos Recientes: Mi web, CBBH Certification
 - 📫 Contáctame en:
 
-# 🔧 Lenguajes y Herramientas
+# 🔧 Lenguajes y Herramientas Favoritas
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-000?logo=python&logoColor=34eb98&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-JavaScript-000?logo=javascript&logoColor=34cceb&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Linux-000?logo=linux&logoColor=ff34cb&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Unity-000?logo=unity&logoColor=ffffff&style=for-the-badge" />
-</p>
-
-## 🔍 Herramientas de Hacking Web
-<p align="center">
   <img src="https://img.shields.io/badge/-Burp_Suite-000?logo=burp-suite&logoColor=orange&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-OWASP_ZAP-000?logo=owasp&logoColor=34cceb&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-SQLmap-000?logo=sqlite&logoColor=34eb98&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Nmap-000?logo=nmap&logoColor=ff34cb&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-ReconNG-000?logo=python&logoColor=blue&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Sublist3r-000?logo=python&logoColor=34eb98&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Dirb-000?logo=gnu-bash&logoColor=34cceb&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Amass-000?logo=cybersecurity&logoColor=purple&style=for-the-badge" />
 </p>
+
 
 # 💥 Bug Bounty Hunter Skills 
 - **Reconocimiento Avanzado**: Búsqueda de subdominios, detección de puertos y vulnerabilidades con herramientas como Nmap y Sublist3r.
