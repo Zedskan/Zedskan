@@ -1,5 +1,10 @@
 # 💻 Hey, I'm Daniel Miranda! 👾
 
+<div style="background-color: #1e1e1e; color: #f8f8f2; padding: 20px; border-radius: 10px; font-family: monospace; text-align: center;">
+    <span style="font-size: 18px;">  ~/Documents ··········································· ✘ INT at  13:15:18 ─╮</span><br>
+    <span style="font-size: 24px; font-weight: bold;">❯ Hello :)</span>
+</div>
+
 ## Especialidades: ![Seguridad Informática](https://img.shields.io/badge/-Seguridad-34eb8f?style=for-the-badge) | ![Desarrollo Web](https://img.shields.io/badge/-Desarrollo_Web-34cceb?style=for-the-badge) | ![Programación](https://img.shields.io/badge/-Programación-eb34d2?style=for-the-badge)
 
 ### 👾 Aficiones:
