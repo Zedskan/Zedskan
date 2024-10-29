@@ -1,6 +1,6 @@
 # 💻 Hey, I'm Daniel Miranda! 👾
 
-![Banner](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWY5aXBrd2toaG12ZXZ0dDBmMWRyamtnaXhkd2RvMHk4cmRkbWVociZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kJ1iL1ZQIyibu/giphy-downsized-large.gif)
+![giphy-downsized-large](https://github.com/user-attachments/assets/95041a6b-ddd9-43f1-9de3-0ad18bef3e9c)
 
 ## Especialidades: ![Seguridad Informática](https://img.shields.io/badge/-Seguridad-34eb8f?style=for-the-badge) | ![Desarrollo Web](https://img.shields.io/badge/-Desarrollo_Web-34cceb?style=for-the-badge) | ![Programación](https://img.shields.io/badge/-Programación-eb34d2?style=for-the-badge)
 
