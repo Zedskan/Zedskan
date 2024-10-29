@@ -4,8 +4,8 @@
 
 ### 👾 Aficiones:
 - **CTF** (Capture The Flag)
-- **Hacking Ético**
-- **FPS**
+- **Hacking Web**
+- **First Person Shooters**
 
 # 🧑‍💻 Sobre mí
 - 🎓 Especialista en: **Explotación Web, Ciberseguridad, Programación en Python**
