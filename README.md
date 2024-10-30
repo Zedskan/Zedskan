@@ -30,7 +30,7 @@
 # 🚀 My Featured Projects
 | Project                          | Description                                                         | Link     |
 |-----------------------------------|---------------------------------------------------------------------|----------|
-| **My Website**                    | 📜 A space where I share my write-ups, notes, and articles on cybersecurity and ethical hacking | [GitHub](#) |
+| **My Website (in development)**                    | 📜 A space where I share my write-ups, notes, and articles on cybersecurity and ethical hacking | [GitHub](#) |
 | **Raging Bug**                    | 🎮 My first FPS developed in Unity, focused on action and creative level design | [GitHub](#) |
 
 
