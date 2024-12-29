@@ -2,15 +2,21 @@
 
 ![Music Soundcloud Banner](https://github.com/user-attachments/assets/83728517-1390-4ca1-97ba-788d5cd11128)
 
-## Specialties: ![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-34eb8f?style=for-the-badge) | ![Web Development](https://img.shields.io/badge/-Web_Development-34cceb?style=for-the-badge) | ![Programming](https://img.shields.io/badge/-Programming-eb34d2?style=for-the-badge)
+## Specialties: 
+![Web Hacking (XSS)](https://img.shields.io/badge/-Web_Hacking_(XSS)-34eb8f?style=for-the-badge) | 
+![Reverse Engineering](https://img.shields.io/badge/-Reverse_Engineering-eb34d2?style=for-the-badge) | 
+![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-34cceb?style=for-the-badge)
 
 ### 👾 Hobbies:
 - **CTF** (Capture The Flag)
-- **Web Hacking**
-- **First Person Shooters**
+- **Linux Ricing**
+- **Vintage Cars**
+- **Playing Electric Guitar** (Heavy Metal & Thrash)
+- **FPS and Fighting Games**
 
 # 🧑‍💻 About Me
-- 🎓 Specialist in: **Web Exploitation, Cybersecurity, Python Programming**
+- 🎓 Specialist in: **Web Exploitation, Reverse Engineering, Python Programming**
+- 🎸 Passionate about: **Heavy Metal & Thrash Music**
 - 🕹️ Recent Projects: My website, CBBH Certification
 
 # 🔧 Favorite Languages and Tools
@@ -31,7 +37,6 @@
 |-----------------------------------|---------------------------------------------------------------------|----------|
 | **My Website (in development)**                    | 📜 A space where I share my write-ups, notes, and articles on cybersecurity and ethical hacking | [GitHub](#) |
 | **Raging Bug**                    | 🎮 My first FPS developed in Unity, focused on action and creative level design | [GitHub](#) |
-
 
 
 # 🎯 My Inspiration
