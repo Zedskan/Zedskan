@@ -12,7 +12,6 @@
 # 🧑‍💻 About Me
 - 🎓 Specialist in: **Web Exploitation, Cybersecurity, Python Programming**
 - 🕹️ Recent Projects: My website, CBBH Certification
-- 📫 Contact me at:
 
 # 🔧 Favorite Languages and Tools
 <p align="center">
@@ -39,4 +38,4 @@
 > "Alea iacta est" - The die is cast.
 
 # 🛠️ Contact
-- **Email**: [zedskan@gmail.com](mailto:zedskan@gmail.com)
+- **Email**: [zedskan@gmail.com](mailto:alterZdkn@proton.me)
