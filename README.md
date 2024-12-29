@@ -3,7 +3,7 @@
 ![Music Soundcloud Banner](https://github.com/user-attachments/assets/83728517-1390-4ca1-97ba-788d5cd11128)
 
 ## Specialties: 
-![Web Hacking (XSS)](https://img.shields.io/badge/-Web_Hacking_(XSS)-34eb8f?style=for-the-badge) | 
+![Web Hacking](https://img.shields.io/badge/-Web_Hacking-34eb8f?style=for-the-badge) | 
 ![Reverse Engineering](https://img.shields.io/badge/-Reverse_Engineering-eb34d2?style=for-the-badge) | 
 ![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-34cceb?style=for-the-badge)
 
@@ -11,12 +11,12 @@
 - **CTF** (Capture The Flag)
 - **Linux Ricing**
 - **Vintage Cars**
-- **Playing Electric Guitar** (Heavy Metal & Thrash)
+- **Playing Electric Guitar** 
 - **FPS and Fighting Games**
 
 # 🧑‍💻 About Me
-- 🎓 Specialist in: **Web Exploitation, Reverse Engineering, Python Programming**
-- 🎸 Passionate about: **Heavy Metal & Thrash Music**
+- 🎓 Specialist in: **Web Exploitation, Reverse Engineering**
+- 🎸 Passionate about: **Heavy & Thrash Metal**
 - 🕹️ Recent Projects: My website, CBBH Certification
 
 # 🔧 Favorite Languages and Tools
