@@ -38,4 +38,4 @@
 > "Alea iacta est" - The die is cast.
 
 # 🛠️ Contact
-- **Email**: [zedskan@gmail.com](mailto:alterZdkn@proton.me)
+- **Email**: [alterZdkn@proton.me](mailto:alterZdkn@proton.me)
