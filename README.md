@@ -1,25 +1,38 @@
 # 💻 Hey! 👾
 
+# They built the system. I learned how to break it.
+
 ![Banner](https://github.com/user-attachments/assets/83728517-1390-4ca1-97ba-788d5cd11128)
 
-## Specialties: 
-![Web Hacking](https://img.shields.io/badge/-Web_Hacking-34eb8f?style=for-the-badge) | 
-![Reverse Engineering](https://img.shields.io/badge/-Reverse_Engineering-eb34d2?style=for-the-badge) | 
+## Core Specialties  
+![Web Hacking](https://img.shields.io/badge/-Web_Hacking-34eb8f?style=for-the-badge)
+![Reverse Engineering](https://img.shields.io/badge/-Reverse_Engineering-eb34d2?style=for-the-badge)
 ![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-34cceb?style=for-the-badge)
 
-### 👾 Hobbies:
-- **CTF** (Capture The Flag)
-- **Linux Ricing**
-- **Vintage Cars**
-- **Playing Electric Guitar** 
-- **FPS and Fighting Games**
+---
 
-# 🧑‍💻 About Me
-- Specialist in: **Web Exploitation, Reverse Engineering**
-- Passionate about: **Heavy & Thrash Metal**
-- Recent Projects: My website, CBBH Certification
+## whoami
 
-# 🔧 Favorite Languages and Tools
+I break things to understand them.  
+I'm not here to blend in — I'm here to dissect, expose, and rewrite the rules.
+
+- **Web Exploitation** | **Reverse Engineering** | **Digital Offense**
+- Specialist in building knowledge through real attacks, not simulations.
+- Passionate about distortion, velocity, and raw truth — in code and in life.
+
+---
+
+## 🎸 Outside the shell:
+
+- CTF addict  
+- Linux ricer  
+- Old-school car enthusiast  
+- Electric guitar riffs & metal tones  
+- FPS + fighting game purist
+
+---
+
+## Tools I Trust
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-000?logo=python&logoColor=34eb98&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-JavaScript-000?logo=javascript&logoColor=34cceb&style=for-the-badge" />
@@ -32,14 +45,26 @@
   <img src="https://img.shields.io/badge/-Dirb-000?logo=gnu-bash&logoColor=34cceb&style=for-the-badge" />
 </p>
 
-# 🚀 My Featured Projects
-| Project                          | Description                                                         | Link     |
-|-----------------------------------|---------------------------------------------------------------------|----------|
-| **My Website**                    | 📜 A space where I share my write-ups, notes, and articles on cybersecurity and ethical hacking | [Living After Midnight](https://zedskan.github.io/) |
+---
 
+## Projects That Speak
 
-# 🎯 My Inspiration
-> "Alea iacta est" - The die is cast.
+| Project         | Description                                                                 | Link |
+|----------------|-----------------------------------------------------------------------------|------|
+| **Living After Midnight** | My digital base: write-ups, methodology, thoughts in raw format. | [Visit Site](https://zedskan.github.io/) |
 
-# 🛠️ Contact
+---
+
+## My Inspiration
+
+> **"There’s a fire inside me that doesn’t burn out — it forges."**
+
+---
+
+## 📫 Contact
+
 - **Email**: [alterZdkn@proton.me](mailto:alterZdkn@proton.me)
+
+---
+
+<sub><i>If you’re still reading... good. Now ask yourself: what’s hidden behind this markdown?</i></sub>
