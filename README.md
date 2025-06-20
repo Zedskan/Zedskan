@@ -51,7 +51,7 @@ I'm not here to blend in — I'm here to dissect, expose, and rewrite the rules.
 
 | Project         | Description                                                                 | Link |
 |----------------|-----------------------------------------------------------------------------|------|
-| **Living After Midnight** | My digital base: write-ups, methodology, thoughts in raw format. | [Visit Site](https://zedskan.github.io/) |
+| **Living After Midnight** | My digital base: write-ups, methodology, my thoughts. | [Visit Site](https://zedskan.github.io/) |
 
 ---
 
