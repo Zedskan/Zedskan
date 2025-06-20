@@ -1,6 +1,6 @@
 # 💻 Hey! 👾
 
-![Music Soundcloud Banner](https://github.com/user-attachments/assets/83728517-1390-4ca1-97ba-788d5cd11128)
+![Banner](https://github.com/user-attachments/assets/83728517-1390-4ca1-97ba-788d5cd11128)
 
 ## Specialties: 
 ![Web Hacking](https://img.shields.io/badge/-Web_Hacking-34eb8f?style=for-the-badge) | 
@@ -15,9 +15,9 @@
 - **FPS and Fighting Games**
 
 # 🧑‍💻 About Me
-- 🎓 Specialist in: **Web Exploitation, Reverse Engineering**
-- 🎸 Passionate about: **Heavy & Thrash Metal**
-- 🕹️ Recent Projects: My website, CBBH Certification
+- Specialist in: **Web Exploitation, Reverse Engineering**
+- Passionate about: **Heavy & Thrash Metal**
+- Recent Projects: My website, CBBH Certification
 
 # 🔧 Favorite Languages and Tools
 <p align="center">
@@ -35,8 +35,7 @@
 # 🚀 My Featured Projects
 | Project                          | Description                                                         | Link     |
 |-----------------------------------|---------------------------------------------------------------------|----------|
-| **My Website (in development)**                    | 📜 A space where I share my write-ups, notes, and articles on cybersecurity and ethical hacking | [GitHub](#) |
-| **Raging Bug**                    | 🎮 My first FPS developed in Unity, focused on action and creative level design | [GitHub](#) |
+| **My Website**                    | 📜 A space where I share my write-ups, notes, and articles on cybersecurity and ethical hacking | [Living After Midnight](https://zedskan.github.io/) |
 
 
 # 🎯 My Inspiration
