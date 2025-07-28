@@ -55,7 +55,7 @@ I'm not here to blend in — I'm here to dissect, expose, and rewrite the rules.
 
 ## My Inspiration
 
-> **"There’s a fire inside me that doesn’t burn out — it forges."**
+> **"Cogito, ergo hack"**
 
 ---
 
@@ -65,4 +65,4 @@ I'm not here to blend in — I'm here to dissect, expose, and rewrite the rules.
 
 ---
 
-<sub><i>If you’re still reading... good. Now ask yourself: what’s hidden behind this markdown?</i></sub>
+
